@@ -42,6 +42,14 @@ _This text_ is italic
 
 [Portfolio with a hint](https://www.medamineck.com "medamineck.com")
 
+https://www.medamineck.com
+
+`https://www.medamineck.com`
+
+<!-- Emails -->
+
+<contact@medamineck.com>
+
 <!-- UL -->
 
 - item 1
@@ -81,6 +89,10 @@ console.log("hello world");
 | ------- | ---------------------- |
 | me      | contact@medamineck.com |
 | another | another@email.com      |
+
+| Left | Center | Right |
+| :--- | :----: | ----: |
+| 1    |   2    |     3 |
 
 <!-- Task List -->
 

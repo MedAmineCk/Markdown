@@ -77,10 +77,10 @@ console.log("hello world");
 
 <!-- Tables -->
 
-| Name  | Email                     |
-| ----- | ------------------------- |
-| Amine | medamineck.work@gmail.com |
-| Med   | medamineck4u@gmail.com    |
+| Name    | Email                  |
+| ------- | ---------------------- |
+| me      | contact@medamineck.com |
+| another | another@email.com      |
 
 <!-- Task List -->
 
